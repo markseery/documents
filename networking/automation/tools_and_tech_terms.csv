@@ -1,0 +1,161 @@
+Term,How Used
+802.1x,Mentioned as an example of network configuration deployment
+AI Ops,Combines big data and machine learning to enable and help engineers automate network operations
+API,"For programmatic interaction with systems, Used for integrating different systems, Used to interact with Netbox and retrieve device information"
+APIs,"Used for interacting with network devices, Used to expose network capabilities to business systems"
+AWS,"Used for deploying network infrastructure and running serverless functions, Planned to be used for cloud hosting of some workloads"
+AWS CloudWatch,Used for monitoring resources and collecting metrics
+AWS Lambda,Used for running code in response to events and monitoring
+AWX,Supported as a UI frontend for running the Ansible playbooks
+AWX Tower,For operationalizing automation
+Agile methodology,Adopted for software development process
+Angular,Frontend framework used for user interface development
+Ansible,"Used for managing network device configurations and software updates, For network automation, Used as the automation platform to orchestrate the firewall upgrade process, Used for network automation, Used for executing changes on network devices, Used to push configurations"
+Ansible Galaxy collection,Used to package and distribute the custom Ansible modules
+Batfish,"Open source multivendor analysis tool for detecting errors before deployment  builds offline network model, Used for network state analysis"
+Big Panda,Used for alert management and correlation
+CI Pipeline,Used for building and testing code
+CI pipelines,For testing network changes before deployment
+CI/CD,Used to automate the deployment process
+Chat GPT,"Used by many people for various tasks, Used to generate Pearl code example"
+Cisco ACI,Mentioned as an example of software-defined networking
+Cisco ASA,Used as VPN concentrators
+Cisco ASA firewalls,Network security devices
+Cisco Catalyst 9500 switches,Network switches in the infrastructure
+Cisco IOS,Operating system for network devices  including versions 12  15  16  17
+Cisco IOS archive feature,Configuration archiving and rollback feature
+Cisco Prime Infrastructure,Network management software for wireless APs
+Cisco Wireless Controllers,Manage wireless access points
+Cisco abstraction tool,Used for abstraction in SDN platform
+Cloud,Mentioned in context of application deployment and networking principles
+Configuration management,For managing network device configurations
+Configuration templates,Used to generate device configurations dynamically
+Container Lab,"Open-sourced for free consumption, Set up network for demonstration, Tool for spinning up network labs, Used to test network configurations, Declarative way to define virtual networking topologies, Used for creating virtual network labs for testing"
+Containerization,For running containerized network operating systems
+Containerlab,Tool for creating virtualized network environments for testing
+Cookie Cutter,Used to deploy standard project templates
+Cubnets,Open-source initiative to educate on using Kubernetes for network automation
+Custom Workflow Engine,Developed in Python for orchestrating network tasks
+Customer Provisioning Form,Used to automate and control service allocation
+DHCP,Network protocol used for IP address assignment in provisioning
+DMVPN,Used for connecting remote users to office locations
+Data frames,Structure for working with data in Python  used with tools like Pandas
+Discord,Server for joining Cubnets initiative
+Django,Web framework used for building the application
+Docker,"Containerization platform used for testing and deployment, Used for containerization, Prerequisite for running Container Lab"
+EFPN,Used as basis for SURF's network
+ELK Stack,Used for logging and event management
+EVPN VXLan,Configured in demonstration
+Elastic/ELK stack,Used as a data lake for storing and analyzing telemetry data
+Fast API,Used to build API Gateway
+Git,"For versioning and collaboration on lab topologies, Used for version control, Used for version control and as a customer interface, Used for version control of automation code and configurations, Used with Rand de for automation framework"
+Git repositories,For storing and managing automation code
+Git/GitHub,Used to distribute the open source code
+GitHub,"Used to store and share example scripts, Used as a repository for storing automation code"
+GitHub Copilot,Used by developers for code assistance
+GitLab,Used for CI/CD pipelines
+Grafana,"Used for visualization of reports and metrics, Used for monitoring and visualization"
+GraphQL,Query language for APIs to efficiently retrieve data
+GraphQL API,Used to make data accessible and enable stitching between BSS and OSS systems
+HTML,Used to generate reports on the upgrade process
+IETF models,Proposed as standardized models for network services
+Image generators,Used to generate images
+Infiniband switches,For networking in GPU clusters
+InfraHUB,Mentioned as a potential solution for encoding network guidelines
+Itential,Used for federation and workflows in SDN platform
+JSNAPY,Used for Juniper device testing
+JSON,Used to store snapshot data of firewall state
+JSON Schema,Used to define and version service definitions
+JWT,Used for API authentication
+Jinja,Used for creating configuration templates
+Jinja2,Templating engine used for generating device configurations
+Juniper devices,Network devices used in multivendor lab
+Kubernetes,"Platform for network automation, As a backend for deploying Container Lab at scale"
+LDAP,Protocol used for authentication and directory services
+Layer 3 VPNs,Used as part of SURF's network services
+MicroStrategy,Used for business-oriented reporting and forecasting
+Microservices,"Used as SDN applications consuming federation layer, Used to build and deliver network automation services"
+Microsoft Teams,Used for sending alerts and notifications
+NAF (Network Automation Forum),Bringing people together across organizations and continents for network automation efforts
+NETCONF,To interact with nodes in the topology
+Napalm,Network automation and programmability abstraction layer
+Net DevOps Days,As a conference for network automation
+Netbox,"As a source of truth for network infrastructure data, As an open-source tool for network automation, Infrastructure resource modeling and IPAM tool, Used as a source of truth for network data, Used as a device inventory management system with API access, Used as network inventory and source of truth"
+Netbox Certification Program,To ensure quality and support for Netbox plugins
+Netbox Cloud,"As a commercial product for network automation, Planned to be used as hosted version of Netbox"
+Netbox Free Tier,To lower the barrier for users to try network automation
+Netbox plugin - SSOT,Used to run playbooks and provide logs/analytics
+Netmiko,"Used to establish SSH connections to network devices from Python, Python library for SSH connections to network devices, Python library mentioned for network device interaction, Used for executing changes on network devices"
+Netor,Allows customers to have their own infrastructure Git repositories
+Netschema,Open source tool for network-based JSON schema validation
+Network Automation,"Used to generate core switch and router configurations, To build and manage complex networks, Focus of the conference for discussing and sharing knowledge"
+Network Automation Conference,Forum for learning  exchanging ideas  and networking
+Network automation,Strategic pillar for Nokia
+Nokia images,Open-sourced for free consumption
+Nomad,For managing VM and container deployments
+Nornir,Used for network automation tasks
+Open Config,Proposed as a standardized API for network devices
+Open and Composable Systems,As an approach to network automation  allowing integration of multiple tools
+OpenStack,Used for cloud infrastructure
+Operators,Pattern in Kubernetes for reconciliation loop
+Orchestration,Implemented to automate and coordinate network automation tasks
+Oxidized,For backing up network device configurations
+PAN-OS Python SDK,Used to interact with Palo Alto firewalls programmatically
+Palo Alto Firewalls,Used for network segmentation
+Palo Alto Networks Panorama,Central management platform for the firewalls  used as a source of truth for inventory
+Palo Alto Networks XML API,Used to query firewall information for testing and upgrades
+Palo Alto Networks firewalls,The target devices being upgraded through the automation solution
+Palo Alto Panorama,Used for managing Palo Alto firewalls
+Parameterization,Technique in Pytest for dynamically creating multiple tests
+Peering Manager,For managing transit and peering setups
+Plugin Bounty Program,To encourage community development of Netbox plugins
+Poetry,Used for Python dependency management
+Prefect,Mentioned as an example of workflow orchestration tool
+Principal Component Analysis,Used to analyze correlations in network telemetry data
+Prometheus,Used for monitoring
+PyPI,Used to distribute the Python packages
+Pyats,Complete testing framework from Cisco with device drivers  helper libraries  runtime environment
+Pydantic,Data validation and settings management using Python type annotations
+Pytest,"Open source Python testing framework for writing and running tests, Used for testing automation scripts"
+Python,"For writing automation scripts, Used for network automation, Used for writing scripts and Lambda functions, For network automation and coding, Used to develop the automation scripts and libraries, Programming language used for backend development and automation, Used as the primary programming language for automation, Used as the programming language for network automation scripts, Used for automation and scripting, Used for scripting and automation development"
+Python Library - diffsync,Used to load and compare datasets between source and destination
+REST API,"Used for interacting with network devices and cloud services, Used for integration with other systems and tools"
+Rancid,Used for network configuration management
+Rand de,Used as core of necum automation framework
+Reporting Stack,Used to generate metrics and assess data quality
+Requests,Used to make API requests to Netbox from Python
+Robot Framework,Used for automated testing of automations and infrastructure
+SSH,"To interact with nodes in the topology, Used to connect to network devices programmatically"
+SaltStack,Used as a workflow engine and for configuration management
+Schema validation,Ensures data format and type correctness  can use tools like JSON Schema
+Scrapli,Used for network automation tasks
+Self-service Portal,Allows users to request network changes and trigger automated workflows
+Service Definition,Used to link technical assets to business representations
+ServiceNow,"Used for sending alerts and managing incidents, Used for ticketing and CMDB, Used as an ITSM platform for change management"
+Solara,Used to create front-end interfaces for automation apps
+Source of truth,As a central repository for authoritative data
+Stage Changes,To provide version control  branching  merging  and diffing in Netbox 4.1
+Streamlit,Used to create front-end interfaces for automation apps
+Suzieq,Observability tool that pulls network data into a database for querying and time-based analysis
+Syslog,Used to gather log data from network devices
+TC (Traffic Control),For link impairment in Container Lab topologies
+TCL/TclL,Scripting language used for device configuration and automation
+TFTP,File transfer protocol used in device provisioning
+Temporal IO,As a durable execution queuing system for workflows
+Terraform,"Used for deploying and managing cloud resources, For infrastructure automation, Used for network automation, Used for infrastructure deployment  but not directly exposed to customers"
+Terrero,For unifying operational models and dynamically creating runtime environments for automation
+TextFSM,Template-based parsing of semi-structured text
+Toyota Kata,Applied as a methodology for incremental progress in network automation
+VLAN,Used as an example for network configuration tasks
+Vault,For storing secrets and credentials
+Version Control System,For sharing and collaborating on lab topologies
+Visual Studio Code,Used as IDE for development
+YAML,"To define lab topologies, Used for storing data and configurations, Used for customer input in git repositories"
+YANG models,Used to model network device data and APIs
+Zero Touch Provisioning,Automated deployment and configuration of network devices
+clabernetes,To deploy Container Lab on Kubernetes for horizontal scaling
+gNMI,"Used to gather telemetry data from network devices, To interact with nodes in the topology"
+kubectl,Apply configuration to network
+learn.netdev.io,Provides exercises for network automation learning
+requirements.txt,For specifying Python dependencies in automation projects
+vnet lab,To package VM-based network operating systems in containers
