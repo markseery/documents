@@ -1,0 +1,78 @@
+Introduction
+
+Based on the 600+ takeaways mined from the recent Autocon 1 conference, here is one potential step-by-step guide to a network automation journey. There will be debate about some of this, for example some will say forgo the strategy and executive by-in, get started, and ask for forgiveness later. Prove the value first. Some might also say start with AI today. These are all worthy conversations to have, and I will for sure entertain some of these ideas in future blogs.
+
+Preparation and planning
+
+Define clear automation strategy and goals. 
+Identify impactful use cases that deliver business value. 
+Secure management buy-in by articulating the value of automation. 
+Allocate budget and resources for automation initiatives
+
+Build foundation
+
+Start with device inventory management (e.g., using NetBox). 
+Establish programmatic access to devices (e.g., using Netmiko)
+Implement version control for configurations and scripts. 
+Create a trusted source of truth for network data
+
+Skill development
+
+Upskill network engineers in basic programming (start with Python)
+Introduce agile practices and DevOps principles
+Foster a culture of continuous learning and knowledge sharing.
+ Encourage participation in network automation communities and forums
+
+Start small
+
+Begin with automating simple, repetitive tasks
+Use configuration templates (e.g., Jinja) for consistency. 
+Implement basic workflow automation (e.g., device queries, config checks). 
+Focus on quick wins to demonstrate value
+
+Expand scope
+
+Develop modular, reusable automation components
+Implement more advanced workflows and orchestration. 
+Integrate with existing systems (monitoring, ticketing, etc.). 
+Start automating more complex tasks (e.g., network provisioning)
+
+Implement testing and quality assurance
+
+Develop a comprehensive testing strategy (unit, integration, system). 
+Use tools like pytest for writing and parameterizing tests
+Implement pre-deployment and post-deployment testing. 
+Create virtual lab environments for safe testing
+
+Standardization and best practices
+
+Develop coding standards and best practices
+Implement peer review processes for automation code. 
+Create documentation for all automation processes. 
+Standardize APIs and data models across the network
+
+Scale and optimize
+
+Implement CI/CD pipelines for automation code
+Develop a centralized automation platform or framework
+Optimize resource allocation and utilization. 
+Implement network reconciliation and auto-checks
+
+Advanced automation
+
+Explore AI and machine learning for network operations
+Implement intent-based networking principles
+Develop self-healing network capabilities.
+Integrate network automation with broader IT automation efforts
+
+Continuous improvement
+
+Regularly review and update automation strategies. 
+Gather feedback from users and stakeholders. 
+Stay updated on new tools and technologies. 
+Contribute to open-source projects and share knowledge with the community
+
+What works for you
+
+Remember to adapt this plan based on your company's specific needs, existing infrastructure, and resources. 
+Start small, focus on delivering value, and gradually expand your automation efforts as you gain experience and maturity.
