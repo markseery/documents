@@ -13,6 +13,7 @@ The moment must be met with a balancing of competing interests, in the context o
 ### A few principles stand out as being central:
 
 * Human lives that are long and prosperous, with guardrails around threats, opportunity to prosper, and protection of rights.
+* A right to use a technique, for example distillation, should be decided not as a blanket policy across all individuals and organizations, but based on the terms of service agreed to, by those using products, services, and technologies. Violating terms of service is often more the problem than a technique itself.
 * Self-interest is an incentive and motivation to contribute to a wide scope of public and private sector activities. Self-interest is not an inherently bad force; it is often the engine of prosperity for individuals and groups. The inability to constructively balance competing interests is a significant challenge at a systems level.
 * Organizations are useful to humans insofar as they contribute to long and prosperous lives. Frameworks place guardrails around organizations, and protect the rights of organizations, only insofar as human life is long and prosperous. This is true for public and private sector organizations.
 * One expression of the prosperity is the embrace of different missions. Public sector, open systems, and proprietary systems have different missions, and can harm and enhance human life in different ways. Embracing different missions should be fundamental. Mission clarity should also be fundamental.
